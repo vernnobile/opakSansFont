@@ -516,9 +516,9 @@
         <string>firsttonechinese</string>
         <string>uni001F</string>
       </array>
-    <key>com.schriftgestaltung.fontMasterID</key>
-      <string>CFE7CDFD-62BB-4B75-B3A1-FBFCEC66FCE0</string>
     <key>com.schriftgestaltung.useNiceNames</key>
       <true/>
+    <key>com.schriftgestaltung.fontMasterID</key>
+      <string>CFE7CDFD-62BB-4B75-B3A1-FBFCEC66FCE0</string>
     </dict>
 </plist>

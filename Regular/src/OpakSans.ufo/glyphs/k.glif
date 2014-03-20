@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
   <advance width="512"/>
-  <unicode hex="006b"/>
+  <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="281" y="0" type="move" smooth="yes"/>
+      <point x="281" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="290" y="519" type="move" smooth="yes"/>
+      <point x="290" y="519" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="78" y="0" type="line" smooth="no"/>
-      <point x="78" y="741" type="line" smooth="no"/>
-      <point x="167" y="741" type="line" smooth="no"/>
-      <point x="167" y="259" type="line" smooth="no"/>
-      <point x="374" y="519" type="line" smooth="no"/>
-      <point x="482" y="519" type="line" smooth="no"/>
-      <point x="287" y="288" type="line" smooth="no"/>
-      <point x="499" y="0" type="line" smooth="no"/>
-      <point x="391" y="0" type="line" smooth="no"/>
-      <point x="225" y="236" type="line" smooth="no"/>
-      <point x="167" y="168" type="line" smooth="no"/>
-      <point x="167" y="0" type="line" smooth="no"/>
+      <point x="78" y="0" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="167" y="168" type="line"/>
+      <point x="225" y="236" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="287" y="288" type="line"/>
+      <point x="482" y="519" type="line"/>
+      <point x="374" y="519" type="line"/>
+      <point x="167" y="259" type="line"/>
+      <point x="167" y="741" type="line"/>
+      <point x="78" y="741" type="line"/>
     </contour>
   </outline>
 </glyph>
