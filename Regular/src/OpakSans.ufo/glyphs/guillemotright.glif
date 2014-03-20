@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
   <advance width="598"/>
-  <unicode hex="00BB"/>
+  <unicode hex="00bb"/>
   <outline>
     <contour>
-      <point x="36" y="26" type="line"/>
-      <point x="132" y="26" type="line"/>
-      <point x="324" y="256" type="line"/>
-      <point x="132" y="486" type="line"/>
-      <point x="36" y="486" type="line"/>
-      <point x="228" y="256" type="line"/>
+      <point x="36" y="26" type="line" smooth="no"/>
+      <point x="228" y="256" type="line" smooth="no"/>
+      <point x="36" y="486" type="line" smooth="no"/>
+      <point x="132" y="486" type="line" smooth="no"/>
+      <point x="324" y="256" type="line" smooth="no"/>
+      <point x="132" y="26" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="275" y="26" type="line"/>
-      <point x="371" y="26" type="line"/>
-      <point x="563" y="256" type="line"/>
-      <point x="371" y="486" type="line"/>
-      <point x="275" y="486" type="line"/>
-      <point x="467" y="256" type="line"/>
+      <point x="275" y="26" type="line" smooth="no"/>
+      <point x="467" y="256" type="line" smooth="no"/>
+      <point x="275" y="486" type="line" smooth="no"/>
+      <point x="371" y="486" type="line" smooth="no"/>
+      <point x="563" y="256" type="line" smooth="no"/>
+      <point x="371" y="26" type="line" smooth="no"/>
     </contour>
   </outline>
 </glyph>
