@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni021E" format="1">
+  <advance width="684"/>
+  <unicode hex="021e"/>
+  <outline>
+    <component base="caron.cap" xOffset="90"/>
+    <component base="H"/>
+  </outline>
+</glyph>

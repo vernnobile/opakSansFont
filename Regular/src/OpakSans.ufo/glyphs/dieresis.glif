@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
   <advance width="600"/>
-  <unicode hex="00A8"/>
+  <unicode hex="00a8"/>
   <outline>
     <contour>
       <point x="268" y="519" type="move" smooth="yes"/>

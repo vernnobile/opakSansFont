@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
   <advance width="697"/>
-  <unicode hex="00F7"/>
+  <unicode hex="00f7"/>
   <outline>
     <contour>
-      <point x="304" y="21" type="line"/>
-      <point x="304" y="109" type="line"/>
-      <point x="392" y="109" type="line"/>
-      <point x="392" y="21" type="line"/>
+      <point x="304" y="21" type="line" smooth="no"/>
+      <point x="304" y="109" type="line" smooth="no"/>
+      <point x="392" y="109" type="line" smooth="no"/>
+      <point x="392" y="21" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="80" y="251" type="line"/>
-      <point x="80" y="321" type="line"/>
-      <point x="617" y="321" type="line"/>
-      <point x="617" y="251" type="line"/>
+      <point x="80" y="251" type="line" smooth="no"/>
+      <point x="80" y="321" type="line" smooth="no"/>
+      <point x="617" y="321" type="line" smooth="no"/>
+      <point x="617" y="251" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="304" y="463" type="line"/>
-      <point x="304" y="551" type="line"/>
-      <point x="392" y="551" type="line"/>
-      <point x="392" y="463" type="line"/>
+      <point x="304" y="463" type="line" smooth="no"/>
+      <point x="304" y="551" type="line" smooth="no"/>
+      <point x="392" y="551" type="line" smooth="no"/>
+      <point x="392" y="463" type="line" smooth="no"/>
     </contour>
   </outline>
 </glyph>
