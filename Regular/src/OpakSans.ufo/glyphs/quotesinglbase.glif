@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesinglbase" format="1">
   <advance width="270"/>
-  <unicode hex="201a"/>
+  <unicode hex="201A"/>
   <outline>
     <contour>
       <point x="195" y="38" type="curve" smooth="yes"/>
@@ -10,14 +10,14 @@
       <point x="177" y="-71" type="curve" smooth="yes"/>
       <point x="165" y="-104"/>
       <point x="153" y="-128"/>
-      <point x="140" y="-143" type="curve" smooth="no"/>
-      <point x="89" y="-143" type="line" smooth="no"/>
+      <point x="140" y="-143" type="curve"/>
+      <point x="89" y="-143" type="line"/>
       <point x="100" y="-129"/>
       <point x="110" y="-108"/>
       <point x="118" y="-80" type="curve" smooth="yes"/>
       <point x="126" y="-52"/>
       <point x="130" y="-28"/>
-      <point x="130" y="-7" type="curve" smooth="no"/>
+      <point x="130" y="-7" type="curve"/>
       <point x="111" y="-7"/>
       <point x="96" y="-3"/>
       <point x="88" y="6" type="curve" smooth="yes"/>

@@ -10,10 +10,10 @@
       <point x="128" y="519" type="move" smooth="yes"/>
     </contour>
     <contour>
-      <point x="81" y="0" type="line" smooth="no"/>
-      <point x="81" y="519" type="line" smooth="no"/>
-      <point x="170" y="519" type="line" smooth="no"/>
-      <point x="170" y="0" type="line" smooth="no"/>
+      <point x="81" y="0" type="line"/>
+      <point x="81" y="519" type="line"/>
+      <point x="170" y="519" type="line"/>
+      <point x="170" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon" format="1">
   <advance width="270"/>
-  <unicode hex="003a"/>
+  <unicode hex="003A"/>
   <outline>
     <contour>
       <point x="135" y="-7" type="curve" smooth="yes"/>

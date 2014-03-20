@@ -9,10 +9,10 @@
       <point x="268" y="812" type="move" smooth="yes"/>
     </contour>
     <contour>
-      <point x="116" y="777" type="line" smooth="no"/>
-      <point x="116" y="845" type="line" smooth="no"/>
-      <point x="414" y="845" type="line" smooth="no"/>
-      <point x="414" y="777" type="line" smooth="no"/>
+      <point x="116" y="777" type="line"/>
+      <point x="116" y="845" type="line"/>
+      <point x="414" y="845" type="line"/>
+      <point x="414" y="777" type="line"/>
     </contour>
   </outline>
 </glyph>
