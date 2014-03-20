@@ -2,4 +2,6 @@
 <glyph name="emptyset" format="1">
   <advance width="270"/>
   <unicode hex="2205"/>
+  <outline>
+  </outline>
 </glyph>

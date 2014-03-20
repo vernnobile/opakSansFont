@@ -2,4 +2,6 @@
 <glyph name="exclamdown" format="1">
   <advance width="270"/>
   <unicode hex="00A1"/>
+  <outline>
+  </outline>
 </glyph>
