@@ -4,13 +4,13 @@
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="262" y="519" type="move" name="_top"/>
+      <point x="262" y="519" type="move" smooth="yes"/>
     </contour>
     <contour>
       <point x="235" y="590" type="line"/>
-      <point x="304" y="590" type="line"/>
-      <point x="437" y="766" type="line"/>
       <point x="322" y="766" type="line"/>
+      <point x="437" y="766" type="line"/>
+      <point x="304" y="590" type="line"/>
     </contour>
   </outline>
 </glyph>

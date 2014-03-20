@@ -5,7 +5,7 @@
 	<key>familyName</key>
 	<string>Opak Sans</string>
 	<key>styleName</key>
-	<string>Book</string>
+	<string>Regular</string>
 	<key>copyright</key>
 	<string>Copyright (c) 2014, vernon adams</string>
 	<key>unitsPerEm</key>
@@ -23,7 +23,15 @@
 	<key>note</key>
 	<string>2014-3-18: Created with FontForge (http://fontforge.org)</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/03/20 00:57:52</string>
+	<string>2014/03/20 20:32:02</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2014, vernon adams, https://github.com/vernnobile/opakSansFont, vernnobile@gmail.com
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
 	<key>openTypeOS2WidthClass</key>
@@ -35,6 +43,10 @@
 	<key>openTypeOS2FamilyClass</key>
 	<array>
 		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
@@ -52,7 +64,7 @@
 	<key>postscriptFullName</key>
 	<string>Opak Sans</string>
 	<key>postscriptWeightName</key>
-	<string>Book</string>
+	<string>Regular</string>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>

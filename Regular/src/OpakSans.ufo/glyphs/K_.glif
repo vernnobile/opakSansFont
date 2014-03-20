@@ -4,24 +4,24 @@
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="331" y="0" type="move" name="bot"/>
+      <point x="331" y="0" type="move" smooth="yes"/>
     </contour>
     <contour>
-      <point x="321" y="690" type="move" name="top"/>
+      <point x="321" y="690" type="move" smooth="yes"/>
     </contour>
     <contour>
       <point x="89" y="0" type="line"/>
-      <point x="181" y="0" type="line"/>
-      <point x="181" y="231" type="line"/>
-      <point x="253" y="308" type="line"/>
-      <point x="496" y="0" type="line"/>
-      <point x="610" y="0" type="line"/>
-      <point x="319" y="366" type="line"/>
-      <point x="594" y="690" type="line"/>
-      <point x="484" y="690" type="line"/>
-      <point x="181" y="333" type="line"/>
-      <point x="181" y="690" type="line"/>
       <point x="89" y="690" type="line"/>
+      <point x="181" y="690" type="line"/>
+      <point x="181" y="333" type="line"/>
+      <point x="484" y="690" type="line"/>
+      <point x="594" y="690" type="line"/>
+      <point x="319" y="366" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="253" y="308" type="line"/>
+      <point x="181" y="231" type="line"/>
+      <point x="181" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
