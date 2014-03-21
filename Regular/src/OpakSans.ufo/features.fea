@@ -1,7 +1,7 @@
-
+# Prefix: Prefix
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\A \AE \AEacute \uni01E2 \Aacute \Abreve \uni01CD \Acircumflex 
+@GDEF_Simple = [ \A \AE \AEacute \uni01E2 \Aacute \Abreve \uni01CD \Acircumflex 
 	\uni0200 \Adieresis \uni0226 \Agrave \uni0202 \Amacron \Aogonek \Aring 
 	\Aringacute \Atilde \B \uni1E02 \C \Cacute \Ccaron \Ccedilla \Ccircumflex 
 	\Cdotaccent \D \uni01F1 \uni01C4 \Dcaron \Dcroat \uni1E0A \uni0394 \uni01F2 
@@ -59,7 +59,7 @@
 	\uni0311 \uni0312 \uni0326 \uni0326.alt \uni0358 \uni2015 \uni20B9 \uni2113 
 	\uogonek \uring \utilde \v \w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute 
 	\ycircumflex \ydieresis \yen \ygrave \uni0233 \uni1EF9 \z \zacute \zcaron 
-	\zdotaccent \zero \uni018F \uniFB00 \uniFB03 \uniFB04 \uni0259 \Omega \Delta ];
+	\zdotaccent \zero \uni018F \uniFB00 \uniFB03 \uniFB04 \uni0259 \Omega \Delta  ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
