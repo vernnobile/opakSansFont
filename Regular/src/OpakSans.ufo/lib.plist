@@ -137,10 +137,10 @@
         <string>Scircumflex</string>
         <string>Scommaaccent</string>
         <string>Sdotaccent</string>
-        <string>Schwa</string>
         <string>T</string>
         <string>Tbar</string>
         <string>Tcaron</string>
+        <string>Tcedilla</string>
         <string>uni021A</string>
         <string>Tdotaccent</string>
         <string>U</string>
@@ -310,10 +310,10 @@
         <string>sdotaccent</string>
         <string>germandbls</string>
         <string>longs</string>
-        <string>schwa</string>
         <string>t</string>
         <string>tbar</string>
         <string>tcaron</string>
+        <string>tcedilla</string>
         <string>uni021B</string>
         <string>tdotaccent</string>
         <string>u</string>
@@ -426,6 +426,7 @@
         <string>currency</string>
         <string>dollar</string>
         <string>Euro</string>
+        <string>uni20B9</string>
         <string>sterling</string>
         <string>yen</string>
         <string>approxequal</string>

@@ -4,12 +4,6 @@
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="121" y="0" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="128" y="519" type="move" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="81" y="0" type="line"/>
       <point x="81" y="519" type="line"/>
       <point x="170" y="519" type="line"/>

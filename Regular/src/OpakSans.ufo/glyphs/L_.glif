@@ -4,15 +4,6 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="138" y="368" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="297" y="0" type="move" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="151" y="690" type="move" smooth="yes"/>
-    </contour>
-    <contour>
       <point x="89" y="0" type="line"/>
       <point x="89" y="690" type="line"/>
       <point x="181" y="690" type="line"/>
