@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="NewAxis1"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/vern/gitHub/opakSansFont/instances"/>
+    <data name="previewtext" value="Honda Fine"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="NewAxis1" shortname="x1">
+        <color a="1.000" b="0.500" g="0.500" r="0.500"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Unnamed Font" filename="Regular/src/OpakSans.ufo" stylename="Regular">
+        <location>
+            <dimension name="NewAxis1" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Unnamed Font" filename="Bold/OpanSansBold.ufo" stylename="Regular">
+        <location>
+            <dimension name="NewAxis1" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="" stylename="x1_-43.011">
+        <location>
+            <dimension name="NewAxis1" xvalue="-300.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+    <instance familyname="" stylename="x1_0.000">
+        <location>
+            <dimension name="NewAxis1" xvalue="1700.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+    </instance>
+</designspace>
